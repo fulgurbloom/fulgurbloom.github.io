@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: fulgurbloom.me
 ---
 
 This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Running on [fulgurbloom.me](https://fulgurbloom.me) (I have no clue how this works)
