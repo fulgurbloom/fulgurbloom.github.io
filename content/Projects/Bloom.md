@@ -1,0 +1,3 @@
+A rudimentary game engine developed in C# utilizing the [Raylib](https://www.raylib.com/) framework developed as a training exercise and test of my knowledge and capability as a programmer.
+
+Implemented features include a user interface developed with [ImGui.NET](https://github.com/ImGuiNET/ImGui.NET) based on Unity, an [Entity Component System](ECS), and a system to save and load "scene" files, automatically generating objects via JSON files that can be saved and loaded from within the editor as well as modified by hand.

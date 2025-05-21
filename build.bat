@@ -1,1 +1,1 @@
-npx quartz build
+npx quartz build --serve
