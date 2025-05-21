@@ -1,1 +1,1 @@
-ECS, or Entity Component System is a term used in game development to describe
+ECS, or Entity Component System (placeholder)
