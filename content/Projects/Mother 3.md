@@ -1,7 +1,7 @@
 ---
 title: Mother 3
 ---
-The "modern era" of the EarthBound 64 community began in 2019 with a Discord server created by member legogarrettz (now PolyGarrett) to showcase his recreations of models and future game development endeavors. I (Kristen, formerly Zen64) worked on programming and modding games for most projects Garrett was involved with.
+The "modern era" of the EarthBound 64 community began in 2019 with a Discord server created by member legogarrettz (now PolyGarrett) to showcase his recreations of models and future game development endeavors. I (Kristen, formerly Zen64) worked on programming and modding games for most projects Garrett was involved with. This page will document major projects worked on by me and other developers throughout the course of time.
 
 | Title                    | Developer        | Engine                    | Timeframe             |
 | ------------------------ | ---------------- | ------------------------- | --------------------- |
