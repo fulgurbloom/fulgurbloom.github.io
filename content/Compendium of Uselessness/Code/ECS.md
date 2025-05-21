@@ -1,0 +1,1 @@
+ECS, or Entity Component System (placeholder)
